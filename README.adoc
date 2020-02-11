@@ -1,0 +1,4 @@
+* Name: jdbc-hive-rabbit
+* Type: Source
+* URI: docker:visavis2k/scst-jdbc-source-rabbit:hive-312
+* MetaData URI: `maven://org.springframework.cloud.stream.app:jdbc-sink-rabbit:jar:metadata:2.1.3.RELEASE`
